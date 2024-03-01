@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python and SQL.
 - 👯 I’m looking to collaborate on projects with python, MySQL.
 - ⚡ Fun fact: I usually like to play videogames, watch movies and TV shows.
+  
 
 <div>
 	<a href="https://github.com/miguelmouralob">
