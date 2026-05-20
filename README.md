@@ -1,8 +1,8 @@
-### Olá, eu sou o Miguel Moura👋
+### Olá, eu sou o Miguel de Moura👋
 
 
 
-- 🌱 I’m currently diving into Python projects.
+- 🌱 I’m currently diving into Python projects and Cybersecurity.
 - 👯 I’m looking to collaborate on projects that involves data science, AI or automation.
 - ⚡ Fun fact: I usually like to play videogames, watch movies and TV shows.
   
